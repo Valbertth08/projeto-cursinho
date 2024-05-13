@@ -7,7 +7,6 @@ import model.entites.Professor;
 import model.entites.Turma;
 
 import java.util.List;
-
 public class ProgramTurma {
     public static void main(String[] args) {
 
